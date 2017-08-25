@@ -1,0 +1,14 @@
+-- CREATE TABLE ShelfD (
+-- 	ID SERIAL PRIMARY KEY,
+--     Name VARCHAR(40),
+--     Price FLOAT
+-- );
+
+-- INSERT INTO ShelfD
+-- (name, price)
+-- VALUES 
+-- (null, null),
+-- (null, null),
+-- (null, null),
+-- (null, null),
+-- (null, null);
